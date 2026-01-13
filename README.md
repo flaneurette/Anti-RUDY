@@ -2,7 +2,7 @@
 
 ## What is a R.U.D.Y. Attack?
 
-R.U.D.Y. (R-U-Dead-Yet) is a slow POST attack that exhausts web server resources without requiring high bandwidth or sophisticated tools.
+R.U.D.Y. is a slow POST attack that exhausts web server resources without requiring high bandwidth or sophisticated tools.
 
 ### How it works:
 
